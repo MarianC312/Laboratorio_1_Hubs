@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1725063036.87576 "i:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 1 - Hubs/Laboratorio_1_Hubs/LaTeX/Campos.tex" "Campos.pdf" "Campos" 1725063039.9292 0
+["pdflatex"] 1725064748.3206 "i:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 1 - Hubs/Laboratorio_1_Hubs/LaTeX/Campos.tex" "Campos.pdf" "Campos" 1725064751.1781 0
   "C:/Users/visua/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1724271282 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/visua/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1725054403 12124 a501dd51b3a1d019c36d5e93fed8924a ""
   "C:/Users/visua/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1724271779 11548 76c0cf95529b072adcf3ef57d13a7315 ""
@@ -78,10 +78,10 @@
   "C:/Users/visua/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/visua/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/visua/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Campos.aux" 1725063039 627 da6169d8af48c7e6cbf8386e2fb145fb "pdflatex"
-  "Campos.out" 1725063039 574 22491f890b2ee5fa20ecab3361137c8d "pdflatex"
-  "Campos.tex" 1725063035 5136 eac6997c342c01047546f59218ecc6d3 ""
-  "i:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 1 - Hubs/Laboratorio_1_Hubs/LaTeX/Campos.tex" 1725063035 5136 eac6997c342c01047546f59218ecc6d3 ""
+  "Campos.aux" 1725064750 627 da6169d8af48c7e6cbf8386e2fb145fb "pdflatex"
+  "Campos.out" 1725064750 574 22491f890b2ee5fa20ecab3361137c8d "pdflatex"
+  "Campos.tex" 1725064747 6043 20dbd9b6b4e58c905a7d06deaa802eca ""
+  "i:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 1 - Hubs/Laboratorio_1_Hubs/LaTeX/Campos.tex" 1725064747 6043 20dbd9b6b4e58c905a7d06deaa802eca ""
   "images/img_01.png" 1725031491 161307 056db33be887e102261e56281fa12d92 ""
   "images/img_03.png" 1725035344 109555 d8e5901965227a057ab4666cefb7797c ""
   "images/img_04.png" 1725035326 107246 8a5b47848115a5ca02af860d6f4f4085 ""
